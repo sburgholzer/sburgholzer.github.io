@@ -13,7 +13,7 @@ Education
 ======
 * A.G.S, A.A. A.S. A.A.S, College of DuPage, 2016
 * B.S. in Computer Science, Lewis University, 2017, 3.87
-* M.S. in Data Science with a computer science concentration, Lewis University, 2019 (expected)
+* M.S. in Data Science with a computer science concentration, Lewis University, 2019, 4.0
 
 Work experience
 ======
@@ -35,38 +35,39 @@ Work experience
 * April 2017 - May 2018: Contractor
   * Weather Command
   * Duties included: Assisted in creating forecasts for clients. Assisted in creating new Excel Workbooks with Visual Basic for Applications (VBA). Created databases for storing information and web interfaces to manipulate and view the data.
+  * Supervisor: Al Williams/Thomas Piazza
 
 * May 2018 - Present: IT Support Meteorologist
   * Weather Command
-  * Duties included: All previous contractor responsibilities as well as answering phones and doing severe weather broadcasts for radio stations. Switched from GoDaddy to Amazon Web Services for servers. Switched over to Unidata's LDM software for gathering weather data from NOAAPort. Maintain LDM. Maintain Linux Servers in office. 
-  
+  * Duties included: All previous contractor responsibilities as well as answering phones and doing severe weather broadcasts for radio stations. Switched from GoDaddy to Amazon Web Services for servers. Switched over to Unidata's LDM software for gathering weather data from NOAAPort. Maintain LDM. Maintain Linux Servers in office.
+  * Supervisor: Al Williams/Thomas Piazza
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* HTML/CSS
+* PHP
+* Python
+* Visual Basic for Applications
+* Windows Setup/Maintenance
 
 <!--Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>-->
-  
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Assistant Emergency Coordinator, Kane County, IL Amateur Radio Emergency Services (ARES)
